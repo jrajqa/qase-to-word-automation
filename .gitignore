@@ -1,0 +1,6 @@
+# Jay mataji!
+
+.env
+.venv/
+__pycache__/
+output/

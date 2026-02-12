@@ -1,0 +1,5 @@
+# Jay mataji!
+
+requests==2.32.5
+docxtpl==0.20.2
+python-dotenv==1.0.1
